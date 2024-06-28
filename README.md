@@ -1,2 +1,2 @@
 # DiscordBot
-That's is a DiscordBot programed by some students from UPC with some IA.
+That's a DiscordBot programed just for fun with some IA.
